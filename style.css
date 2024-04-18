@@ -1,0 +1,19 @@
+h2{
+    text-align: center;
+    color: rgb(255, 179, 0);
+}
+body{
+    background-color: rgb(29, 29, 29);
+    color: yellow;
+    font-family: Arial, sans-serif;
+}
+.other{
+    color: orange;
+}
+div{
+    text-align: center;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
